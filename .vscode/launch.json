@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JacApplication<jac>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jacfrontend.jac.JacApplication",
+            "projectName": "jac",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
