@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'jac-ciscom';
+  title = 'JAC-SISCOM';
+  Entrada = 'JAC SISCOM V1';
+  idk = 'SHUTDOWN';
 }
