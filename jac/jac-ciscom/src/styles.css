@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+Las clases que llevan la "C + nombre de la clase; corresponden a los estilos que se aplican a los componentes"
+*/
+
+.Cfooter{
+    text-align: center;
+    background: #b057da;
+    position: absolute;
+
+}

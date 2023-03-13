@@ -1,16 +1,3 @@
-h1{
-    text-align: center;
-}
-.loginv1{
-    
-    border-style: solid;
-    margin-right: 50%;
-    margin-top: 50px;
-    border-radius: 10px;
-    border-color: blueviolet;
-}
-
-.dropdown-menu{
-    border-radius: 40px;
-    border: 10px;
+.footcomponent{
+    color: blueviolet;
 }
